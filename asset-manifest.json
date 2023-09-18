@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7795b47.css",
+    "main.js": "/static/js/main.a3e9dee1.js",
+    "static/js/787.534a78d1.chunk.js": "/static/js/787.534a78d1.chunk.js",
+    "static/media/red-flower-frame-png-pic-vector-clipart-228173.png": "/static/media/red-flower-frame-png-pic-vector-clipart-228173.b560c3dbae95e56f3902.png",
+    "static/media/2244.jpg": "/static/media/2244.2b567be7cbaf7e70d041.jpg",
+    "static/media/Mooli-Regular.ttf": "/static/media/Mooli-Regular.1180a5b80df79ab5d71f.ttf",
+    "index.html": "/index.html",
+    "main.a7795b47.css.map": "/static/css/main.a7795b47.css.map",
+    "main.a3e9dee1.js.map": "/static/js/main.a3e9dee1.js.map",
+    "787.534a78d1.chunk.js.map": "/static/js/787.534a78d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7795b47.css",
+    "static/js/main.a3e9dee1.js"
+  ]
+}
